@@ -8,7 +8,7 @@
 
 ![image](https://github.com/SumitKumargiri/Inventory-management-system-python-with-oracle/assets/96234273/16713904-3c75-4415-8db3-876996e03869)
 
-#Dashboard of inventory managment System
+#Dashboard of inventory management System
 
 ![image](https://github.com/SumitKumargiri/Inventory-management-system-python-with-oracle/assets/96234273/d32427e8-e6cf-484d-9225-3e65e4d54202)
 
@@ -36,3 +36,37 @@
 #find bill slip
 
 ![image](https://github.com/SumitKumargiri/Inventory-management-system-python-with-oracle/assets/96234273/3a40d684-c9fa-41ca-a053-7e83c76d5b87)
+
+Project Overview: Inventory Management System
+
+An inventory management system is a software application that helps businesses keep track of their inventory levels, sales, and restocking activities. In this project, we'll create a simple inventory management system using Python and Oracle databases.
+
+Tools and Technologies:
+
+Python: A programming language for creating the application logic.
+Oracle Database: For storing and managing inventory data.
+cx_Oracle: Python library for connecting to Oracle databases.
+GUI Library (optional): Tkinter, PyQt, or any other library for creating a graphical user interface.
+
+Project Steps:
+
+Database Setup:
+
+Install Oracle Database and set up a new schema for your project.
+Create necessary tables for managing products, categories, orders, etc.
+Python Setup:
+
+Install necessary Python libraries, including cx_Oracle.
+Set up a connection to the Oracle database using the connection string.
+Create Data Models:
+
+Define Python classes that represent your database tables (e.g., Product, Category, Order).
+Use an Object-Relational Mapping (ORM) approach or manual SQL queries to interact with the database.
+
+Python Official Website:
+Search for "Python official website" on your preferred search engine. The official Python website should be one of the top results. You can also type in "python.org" directly into your browser's address bar.
+
+Oracle Database:
+Search for "Oracle Database official website" on your preferred search engine. The official Oracle Database page should be one of the top results. You can also type "oracle.com/database" directly into your browser's address bar.
+
+For the cx_Oracle library, you can find its official documentation and installation instructions on the Python Package Index (PyPI) or by searching for "cx_Oracle Python library" on your search engine.
